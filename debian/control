@@ -1,0 +1,12 @@
+Source: plano-theme
+Section: gnome
+Priority: extra
+Maintainer: Umair Riaz <noobslab.com@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.3
+Homepage: http://www.NoobsLab.com
+
+Package: plano-theme
+Architecture: all
+Depends: gtk2-engines-murrine, gtk2-engines-pixbuf
+Description: Plano is a flat theme for GNOME and Xfce.
